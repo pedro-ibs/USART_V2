@@ -22,7 +22,7 @@ GNU General Public License for more details.
 
 ## Resumo
 
-Essa biblioteca tenta abstrair os recursos do periférico de comunicação serial USART sem que diminua o controle sobre o mesmo, ela está separada entre funções e macros que permitem configurar e usar os recursos da USART. Sua principal característica é que a mesma utiliza a interna para tratar o recebimento dos dados permitindo maior dinâmica no código desenvolvido com ela. essa biblioteca foi desenvolvida baseada na informação do datasheet do [ATMEGA38P-PU/AU](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf), aconselho sempre conferir as infomações fonecidas pela microchip des dos datasheet até as application notes.
+Essa biblioteca para abstrair os recursos do periférico de comunicação serial USART sem que diminua o controle sobre o mesmo, ela está separada entre funções e macros que permitem configurar e usar os recursos da USART. Sua principal característica é que a mesma utiliza a interna para tratar o recebimento dos dados permitindo maior dinâmica no código desenvolvido com ela. essa biblioteca foi desenvolvida baseada na informação do datasheet do [ATMEGA38P-PU/AU](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf), aconselho sempre conferir as infomações fonecidas pela microchip des dos datasheet até as application notes.
 
 ---
 
