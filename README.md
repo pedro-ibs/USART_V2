@@ -1,7 +1,7 @@
 # USART_V2
 
 Copyright (C) Pedro Igor B. S 2019
-Arquivo: USART_V2.h
+Arquivo: USART_V2.h USART_V2.cpp
 Descrição: Esse é uma bibliotéca para facilitar o uso do
 periferio USART do microcontrolador AVR ATMEGA328P
 Autores: Pedro Igor Borçatti da Silva
